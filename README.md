@@ -8,7 +8,7 @@
 
    The model is fairly accurate, but there is alot more work to go into this kernel. A few future pieces of work I
    plan on doing.
-     - Hyperparamter optimization with something like HyperOpt
-     - Applying inverse transforms on some of the data shown in the LIME explainations
-     - Trying a few more models like SVMs
+    - Hyperparamter optimization with something like HyperOpt
+    - Applying inverse transforms on some of the data shown in the LIME explainations
+    - Trying a few more models like SVMs
 
