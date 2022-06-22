@@ -49,7 +49,7 @@ nest-asyncio==1.4.0
 networkx==2.5
 notebook==6.1.4
 numba==0.51.2
-numpy==1.19.2
+numpy==1.22.0
 packaging==20.4
 pandas==1.1.2
 pandas-profiling==2.9.0
